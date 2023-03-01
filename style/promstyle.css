@@ -1,0 +1,83 @@
+
+body{
+position: relative;
+width: 100%;
+height: 100%;
+overflow: hidden;
+background-image: url(img/promoback.png);
+}
+.iphone{
+    position: absolute;
+width: 604px;
+height: 604;
+left: 900px;
+top: 410px;
+}
+.chebupromo{
+    position: absolute;
+width: 697.94px;
+height: 584.42px;
+left: 1030px;
+top: -150px;
+
+transform: rotate(-21.25deg);
+}
+.chebupromoh{
+    position: absolute;
+width: 963px;
+height: 77px;
+left: 78px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+.chebupromoh2{
+    position: absolute;
+    width: 1257px;
+    height: 290px;
+    left: 78px;
+    top: 117px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+    
+    color: #FFFFFF;
+}
+.uchavstovat{
+    position: absolute;
+width: 320px;
+height: 70px;
+left: 78px;
+top: 471px;
+}
+.sberbro{
+position: absolute;
+width: 258px;
+height: 105px;
+left: 385px;
+top: 617px;
+
+}
+.hothing{
+    position: absolute;
+width: 310px;
+height: 181px;
+left: 2px;
+top: 580px;
+}
+.logopromo{
+    position: absolute;
+width: 258px;
+height: 129px;
+left: 738px;
+top: 617px;
+}

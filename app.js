@@ -15,7 +15,15 @@ app.get('/', (req, res) => {
 app.get('/reg', (req, res) => {
     res.render('reg', { title: 'reg' })
   })
-
+app.get('/enter', (req, res) => {
+    res.render('enter', { title: 'enter' })
+  })
+app.get('/promo', (req, res) => {
+  res.render('promo', { title: 'promo' })
+  })  
+app.get('/onepiece', (req, res) => {
+  res.render('onepiece', { title: 'onepiece' })
+  }) 
 app.listen(port, host, function () {
   console.log(`Server listens http://${host}:${port}`)
 })
