@@ -987,3 +987,109 @@ left: 660px;
 top: 693px;
 
 }
+.chebupiece{
+    position: absolute;
+width: 899px;
+height: 48px;
+left: 79px;
+top: 213px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+}
+.chebuimg{
+    position: absolute;
+width: 831px;
+height: 831px;
+left: 0px;
+top: 187px;
+z-index: -1;
+}
+.stars{
+    position: absolute;
+width: 87px;
+height: 19.04px;
+left: 98px;
+top: 263px;
+
+}
+.starssign{
+    position: absolute;
+width: 84px;
+height: 17px;
+left: 193px;
+top: 264px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.chebuinfone{
+    position: absolute;
+width: 546px;
+height: 595px;
+left: 800px;
+top: 334px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: lighter;
+font-size: 16px;
+line-height: 42px;
+
+color: #000000;
+}
+.buybox{
+    position: absolute;
+width: 300px;
+height: 200px;
+left: 1152px;
+top: 334px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.25);
+border-radius: 45px;
+}
+.dostavimza{
+    position: absolute;
+left:20px;
+top:20px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.cena{
+    position: absolute;
+    left:110px;
+    top:65px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 44px;
+line-height: 65px;
+
+color: #000000;
+}
+.buybtnsingle{
+    position: absolute;
+    top:140px;
+    left:30px;
+
+}
